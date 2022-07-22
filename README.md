@@ -51,7 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula)](https://github.com/banulakumarage) -->
 
-[![Banula's github activity graph](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)](https://github.com/banulakumarage)
+[![Banula's github activity graph](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)
 
 
 ### Top Repositories
