@@ -36,10 +36,11 @@
 
 ## Github Stats
 
-[![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula)](https://github.com/banulakumarage)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula)](https://github.com/banulakumarage)
-
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula" width="410"/>
+</p>
 
 [![Banula's github activity graph](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)](https://github.com/banulakumarage)
 
