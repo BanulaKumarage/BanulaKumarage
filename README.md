@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/banulamk" style = "padding: 5px 5px 5px 5px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banulamk" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/banula-kumarage" style = "padding: 5px 5px 5px 5px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banula-kumarage" height="25" width="25" /></a>
-<a href="https://fb.com/banula.kumarage" style = "padding: 5px 5px 5px 5px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banula.kumarage" height="25" width="25" /></a>
-<a href="https://instagram.com/banula_kumarage" style = "padding: 5px 5px 5px 5px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banula_kumarage" height="25" width="25" /></a>
-<a href="https://www.hackerrank.com/banulakumarage" style = "padding: 5px 5px 5px 5px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="banulakumarage" height="25" width="25" /></a>
+<a href="https://twitter.com/banulamk" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banulamk" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/banula-kumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banula-kumarage" height="25" width="25" /></a>
+<a href="https://fb.com/banula.kumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banula.kumarage" height="25" width="25" /></a>
+<a href="https://instagram.com/banula_kumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banula_kumarage" height="25" width="25" /></a>
+<a href="https://www.hackerrank.com/banulakumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="banulakumarage" height="25" width="25" /></a>
 </p>
 
 
@@ -45,13 +45,13 @@
 
 <p float="left">
 <a href="https://github.com/DBMS-404/Supply-Chain-Management-System">
-  <img style = "margin: 5px 5px 5px 5px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DBMS-404&repo=Supply-Chain-Management-System&theme=dracula" />
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DBMS-404&repo=Supply-Chain-Management-System&theme=dracula" />
 </a>
 <a href="https://github.com/BanulaKumarage/ehotelier">
-  <img style = "margin: 5px 5px 5px 5px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BanulaKumarage&repo=ehotelier&theme=dracula" />
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BanulaKumarage&repo=ehotelier&theme=dracula" />
 </a>
 <a href="https://github.com/BanulaKumarage/Nanoprocessor">
-  <img style = "margin: 5px 5px 5px 5px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BanulaKumarage&repo=Nanoprocessor&theme=dracula" />
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BanulaKumarage&repo=Nanoprocessor&theme=dracula" />
 </a>
 </p>
 
