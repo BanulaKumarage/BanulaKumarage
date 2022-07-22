@@ -20,7 +20,7 @@
 - 📷 I love to do photography in my leisure time
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-direction: row; ">
 <a href="https://twitter.com/banulamk" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banulamk" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/banula-kumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banula-kumarage" height="25" width="25" /></a>
 <a href="https://fb.com/banula.kumarage" style = "padding: 8px 8px 8px 8px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banula.kumarage" height="25" width="25" /></a>
