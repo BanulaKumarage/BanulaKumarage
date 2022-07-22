@@ -36,9 +36,20 @@
 
 ## Github Stats
 
-[![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula)](https://github.com/banulakumarage)
+<div style="max-width: 1050px; margin: 8px auto 10px auto;">
+  <div>
+    <div style="display: inline;">
+      <img src = "https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula" style="  max-width: 100%; height: auto;">
+    </div>
+    <div style="display: inline;">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
+    </div>
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula)](https://github.com/banulakumarage)
+<!-- [![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula)](https://github.com/banulakumarage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula)](https://github.com/banulakumarage) -->
 
 [![Banula's github activity graph](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)](https://github.com/banulakumarage)
 
