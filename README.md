@@ -1,5 +1,5 @@
 <h1 align="left">
-    Hi there,I'm Banula Kumarage 
+    Hi there, I'm Banula Kumarage 
     <img src="https://raw.githubusercontent.com/BanulaKumarage/BanulaKumarage/master/assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
