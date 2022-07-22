@@ -36,10 +36,9 @@
 
 ## Github Stats
 
-<p float = 'center'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula" alt= "GitHub Statistics" />
-  <img align="top" height="208" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula" alt="Most Used Languages" />
-</p>
+[![Banula's GitHub stats](https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula)](https://github.com/banulakumarage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula)](https://github.com/banulakumarage)
 
 [![Banula's github activity graph](https://activity-graph-banula.herokuapp.com/graph?username=banulakumarage&theme=rogue)](https://github.com/banulakumarage)
 
