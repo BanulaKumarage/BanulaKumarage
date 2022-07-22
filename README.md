@@ -1,5 +1,10 @@
-# Hi there, I'm Banula Kumarage👋 
-
+<h1 align="left">
+    Hi there,I'm Banula Kumarage 
+    <img src="https://raw.githubusercontent.com/BanulaKumarage/BanulaKumarage/master/assets/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+</h1>
 
 ## I'm a Developer and a Student!!
 
