@@ -66,6 +66,9 @@
 <a href="https://github.com/BanulaKumarage/Nanoprocessor">
   <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BanulaKumarage&repo=Nanoprocessor&theme=dracula" />
 </a>
+<a href="https://github.com/SEP-Group-15/moodle/tree/Mod_workflow_branch/mod/workflow">
+  <img style = "margin: 8px 8px 8px 8px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEP-Group-15&repo=moodle&theme=dracula" />
+</a>
 </p>
 
 ---
