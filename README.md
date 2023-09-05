@@ -18,6 +18,8 @@
 - 🔭 I’m seeking ways to expand my knowledge
 - 🎤 Apart from programming, I am passionate about developing my public speaking skills
 - 📷 I love to do photography in my leisure time
+- 👨‍💻 My portfolio : [banulakumarage.github.io](https://banulakumarage.github.io/)
+
 
 <h3 align="left">Connect with me :</h3>
 </p>
@@ -28,6 +30,7 @@
 [<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
 [<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
+<a href="https://medium.com/@banulakumarage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@banulakumarage" height="30" width="40" /></a>
 
 
 <br />
