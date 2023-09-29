@@ -26,7 +26,6 @@
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/83dde72b-2395-40e6-9061-ac38dae5b995 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
 
-<!-- [![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage) -->
 
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0" alt="Recent Article 0"> 
@@ -82,6 +81,9 @@
 </p>
 
 ---
+[![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage)
+
+
 [github]: https://www.github.com/banulakumarage
 [twitter]: https://twitter.com/banulamk
 [linkedin]: https://www.linkedin.com/in/banula-kumarage
