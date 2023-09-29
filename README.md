@@ -20,12 +20,13 @@
 - 📷 I love to do photography in my leisure time
 - 👨‍💻 My portfolio : [banulakumarage.github.io](https://banulakumarage.github.io/)
 
+📕 My Badges 
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/e8af8f48-83c8-44c0-8e4e-555cbefd4f0e "Microsoft Certified: Azure Fundamentals")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/83dde72b-2395-40e6-9061-ac38dae5b995 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
 
-[![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage)
+<!-- [![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage) -->
 
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0" alt="Recent Article 0"> 
