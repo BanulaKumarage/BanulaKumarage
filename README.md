@@ -20,6 +20,9 @@
 - 📷 I love to do photography in my leisure time
 - 👨‍💻 My portfolio : [banulakumarage.github.io](https://banulakumarage.github.io/)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 [![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage)
 
 ### Blogs posts
