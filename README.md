@@ -19,12 +19,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange&link=https%3A%2F%2Fbanulakumarage.github.io%2F">
 </a>
 
-- 💻 I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
+- 💻 I’m currently studying at the Department of Computer Science and Engineering at the University of Moratuwa
 - 📚 I'm passionate about learning new technologies
 - 🔭 I’m seeking ways to expand my knowledge
 - 🎤 Apart from programming, I am passionate about developing my public speaking skills
 - 📷 I love to do photography in my leisure time
-- 👨‍💻 My portfolio : [banulakumarage.github.io](https://banulakumarage.github.io/)
 
 ### My Badges 
 <!--START_SECTION:badges-->
