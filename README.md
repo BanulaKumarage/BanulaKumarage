@@ -1,7 +1,9 @@
 ![MasterHead](https://i2.wp.com/blog.magmalabs.io/wp-content/uploads/2021/11/Gif-horizontal.gif?fit=1500%2C534&ssl=1)
 
 <h1 align="center">
+    <a href='https://banulakumarage.github.io/' target='_blank'>
     Hi there, I'm Banula Kumarage 
+    </a>
     <img src="https://raw.githubusercontent.com/BanulaKumarage/BanulaKumarage/master/assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
