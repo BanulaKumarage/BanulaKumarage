@@ -13,7 +13,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/banulakumarage?label=Followers&logo=GitHub)
 ![](https://komarev.com/ghpvc/?username=banulakumarage&color=blue)
 
-## I'm a Developer and a Student!!
+## I'm a Developer and a Student!! 
+
+<a target="_blank" rel="noopener" href='https://banulakumarage.github.io/' >
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange&link=https%3A%2F%2Fbanulakumarage.github.io%2F">
+</a>
 
 - 💻 I’m currently studying at the Department of Computer science and Engineering at the University of Moratuwa
 - 📚 I'm passionate about learning new technologies
