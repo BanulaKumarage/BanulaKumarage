@@ -15,7 +15,7 @@
 
 ## I'm a Developer and a Student!! 
 
-<a target="_blank" rel="noopener" href='https://banulakumarage.github.io/' >
+<a target="_blank" rel="noopener" href='https://banulakumarage.com/' >
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange&link=https%3A%2F%2Fbanulakumarage.com%2F">
 </a>
 
