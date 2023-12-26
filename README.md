@@ -85,9 +85,6 @@
 </a>
 </p>
 
----
-[![An image of @banulakumarage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/banulakumarage)](https://holopin.io/@banulakumarage)
-
 
 [github]: https://www.github.com/banulakumarage
 [twitter]: https://twitter.com/banulamk
