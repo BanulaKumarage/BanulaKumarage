@@ -33,10 +33,7 @@
 
 
 ### Blogs posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@banulakumarage/0" alt="Recent Article 0"> 
-<!-- BLOG-POST-LIST:START -->
-- [Ways of Deploying in Kubernetes](https://medium.com/@banulakumarage/ways-of-deploying-in-kubernetes-14763bc0f090?source=rss-312c941d4d02------2)
-<!-- BLOG-POST-LIST:END -->
+[![Banula Kumarage Medium](https://github-readme-medium.vercel.app/?username=banulakumarage&limit=10)](https://medium.com/@banulakumarage)
 
 
 <h3 align="left">Connect with me:</h3>
