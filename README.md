@@ -34,8 +34,9 @@
 
 
 ### Blogs posts
-[![Banula Kumarage Medium](https://github-readme-medium.vercel.app/?username=banulakumarage&limit=10)](https://medium.com/@banulakumarage)
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
