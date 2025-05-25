@@ -35,7 +35,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Building a Real-Time ETL Pipeline with Apache Beam and Kafka — Part 2: Processing and Persisting](https://medium.com/@banulakumarage/building-a-real-time-etl-pipeline-with-apache-beam-and-kafka-part-2-processing-and-persisting-fa41d03756e3?source=rss-312c941d4d02------2)
+- [Building a Real-Time ETL Pipeline with Apache Beam and Kafka — Part 1: Consuming Events](https://medium.com/@banulakumarage/building-a-real-time-etl-pipeline-with-apache-beam-and-kafka-part-1-consuming-events-74627f5465b4?source=rss-312c941d4d02------2)
+- [Magic Behind @Transactional](https://medium.com/@banulakumarage/the-magic-behind-transactional-997e6e809e4c?source=rss-312c941d4d02------2)
+- [Ways of Deploying in Kubernetes](https://medium.com/@banulakumarage/ways-of-deploying-in-kubernetes-14763bc0f090?source=rss-312c941d4d02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
