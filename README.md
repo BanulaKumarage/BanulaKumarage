@@ -13,14 +13,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/banulakumarage?label=Followers&logo=GitHub)
 ![](https://komarev.com/ghpvc/?username=banulakumarage&color=blue)
 
-## I'm a Developer and a Student!! 
+## I'm a Software Engineer and a Researcher!! 
 
 <a target="_blank" rel="noopener" href='https://banulakumarage.com/' >
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange&link=https%3A%2F%2Fbanulakumarage.com%2F">
 </a>
 
-- 💻 I’m currently studying at the Department of Computer Science and Engineering at the University of Moratuwa
-- 📚 I'm passionate about learning new technologies
+- 💻 I’m currently working as a Software Engineer at Sysco LABS
+- 📚 I’m pursuing my MSc at the University of Moratuwa, focusing on research in the Serverless Computing domain
 - 🔭 I’m seeking ways to expand my knowledge
 - 🎤 Apart from programming, I am passionate about developing my public speaking skills
 - 📷 I love to do photography in my leisure time
@@ -66,9 +66,9 @@
     <div style="display: inline;">
       <img src = "https://github-readme-stats.vercel.app/api?username=banulakumarage&show_icons=true&line_height=27count_private=true&theme=dracula" style="  max-width: 100%; height: auto;">
     </div>
-    <div style="display: inline;">
+    <!-- <div style="display: inline;">
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=banulakumarage&layout=compact&theme=dracula" style="  max-width: 100%; height: 209px; margin-left:5px;">
-    </div>
+    </div> -->
   </div>
 </div>
 
@@ -97,3 +97,4 @@
 [instagram]: https://www.instagram.com/banula_kumarage/
 [facebook]: https://www.facebook.com/banula.kumarage
 [hackerrank]: https://www.hackerrank.com/banulakumarage
+
