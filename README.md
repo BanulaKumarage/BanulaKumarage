@@ -19,7 +19,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=orange&link=https%3A%2F%2Fbanulakumarage.com%2F">
 </a>
 
-- 💻 I’m currently working as a Software Engineer at Sysco LABS
+- 💻 I’m currently working as a Senior Software Engineer at Sysco LABS
 - 📚 I’m pursuing my MSc at the University of Moratuwa, focusing on research in the Serverless Computing domain
 - 🔭 I’m seeking ways to expand my knowledge
 - 🎤 Apart from programming, I am passionate about developing my public speaking skills
